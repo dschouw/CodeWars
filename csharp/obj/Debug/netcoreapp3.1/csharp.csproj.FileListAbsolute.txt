@@ -1,0 +1,13 @@
+D:\development\CodeWars\csharp\obj\Debug\netcoreapp3.1\csharp.csprojAssemblyReference.cache
+D:\development\CodeWars\csharp\obj\Debug\netcoreapp3.1\csharp.csproj.CoreCompileInputs.cache
+D:\development\CodeWars\csharp\obj\Debug\netcoreapp3.1\csharp.AssemblyInfoInputs.cache
+D:\development\CodeWars\csharp\obj\Debug\netcoreapp3.1\csharp.AssemblyInfo.cs
+D:\development\CodeWars\csharp\bin\Debug\netcoreapp3.1\csharp.exe
+D:\development\CodeWars\csharp\bin\Debug\netcoreapp3.1\csharp.deps.json
+D:\development\CodeWars\csharp\bin\Debug\netcoreapp3.1\csharp.runtimeconfig.json
+D:\development\CodeWars\csharp\bin\Debug\netcoreapp3.1\csharp.runtimeconfig.dev.json
+D:\development\CodeWars\csharp\bin\Debug\netcoreapp3.1\csharp.dll
+D:\development\CodeWars\csharp\bin\Debug\netcoreapp3.1\csharp.pdb
+D:\development\CodeWars\csharp\obj\Debug\netcoreapp3.1\csharp.dll
+D:\development\CodeWars\csharp\obj\Debug\netcoreapp3.1\csharp.pdb
+D:\development\CodeWars\csharp\obj\Debug\netcoreapp3.1\csharp.genruntimeconfig.cache
