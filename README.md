@@ -1,2 +1,2 @@
 # CodeWars
-CodeWars.com solutions 
+CodeWars.com solutions in Javascript and C#, using .Net Core
