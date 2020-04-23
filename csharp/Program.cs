@@ -9,6 +9,8 @@ namespace csharp
         {
             // Off-Even String Sort
             Console.WriteLine(OddEvenStringSort.SortMyString("CodeWars"));
+
+            Console.WriteLine(ReplaceWithAlphabetPosition.AlphabetPosition("The sunset sets at twelve o' clock."));
         }
     }
 }
